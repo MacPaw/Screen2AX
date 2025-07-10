@@ -17,7 +17,7 @@ fonttools==4.56.0
 frozenlist==1.5.0
 fsspec==2024.12.0
 gmpy2==2.2.1
-huggingface_hub==0.24.6
+huggingface-hub==0.24.6
 idna==3.7
 ImageHash==4.3.2
 importlib-metadata==7.0.1
@@ -37,7 +37,6 @@ opentelemetry-api==1.26.0
 packaging==24.2
 pandas==2.2.3
 pillow==11.1.0
-pip==25.0
 propcache==0.2.0
 psutil==7.0.0
 py-cpuinfo==9.0.0
@@ -62,11 +61,11 @@ seaborn==0.13.2
 setuptools==75.8.0
 six==1.16.0
 sympy==1.13.1
-tokenizers==0.20.1
+tokenizers==0.21.2
 torch==2.6.0
 torchvision==0.21.0
 tqdm==4.67.1
-transformers==4.45.2
+transformers==4.48.0
 typing_extensions==4.12.2
 tzdata==2023.3
 ultralytics==8.3.82
