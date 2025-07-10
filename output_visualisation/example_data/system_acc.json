@@ -1,0 +1,1037 @@
+{
+    "name": "Chats",
+    "role": "AXWindow",
+    "description": null,
+    "role_description": "standard window",
+    "value": null,
+    "position": "0.00;38.00",
+    "size": "1728;988",
+    "children": [
+        {
+            "name": null,
+            "role": "AXGroup",
+            "description": null,
+            "role_description": "group",
+            "value": null,
+            "position": "0.00;0.00",
+            "size": "1728;988",
+            "children": [
+                {
+                    "name": null,
+                    "role": "AXSplitGroup",
+                    "description": null,
+                    "role_description": "split group",
+                    "value": null,
+                    "position": "0.00;0.00",
+                    "size": "1728;988",
+                    "children": [
+                        {
+                            "name": null,
+                            "role": "AXGroup",
+                            "description": null,
+                            "role_description": "group",
+                            "value": null,
+                            "position": "0.00;0.00",
+                            "size": "140;988",
+                            "children": [
+                                {
+                                    "name": null,
+                                    "role": "AXScrollArea",
+                                    "description": null,
+                                    "role_description": "scroll area",
+                                    "value": null,
+                                    "position": "0.00;52.00",
+                                    "size": "140;896",
+                                    "children": [
+                                        {
+                                            "name": null,
+                                            "role": "AXOutline",
+                                            "description": "Sidebar",
+                                            "role_description": "outline",
+                                            "value": null,
+                                            "position": "0.00;52.00",
+                                            "size": "140;896",
+                                            "children": [
+                                                {
+                                                    "name": null,
+                                                    "role": "AXRow",
+                                                    "description": null,
+                                                    "role_description": "outline row",
+                                                    "value": null,
+                                                    "position": "0.00;52.00",
+                                                    "size": "140;19",
+                                                    "children": [
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXCell",
+                                                            "description": null,
+                                                            "role_description": "cell",
+                                                            "value": null,
+                                                            "position": "10.00;52.00",
+                                                            "size": "120;19",
+                                                            "children": [
+                                                                {
+                                                                    "name": null,
+                                                                    "role": "AXGroup",
+                                                                    "description": null,
+                                                                    "role_description": "group",
+                                                                    "value": null,
+                                                                    "position": "14.00;52.00",
+                                                                    "size": "124;19",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": null,
+                                                                            "role": "AXHeading",
+                                                                            "description": "AI Pro",
+                                                                            "role_description": "heading",
+                                                                            "value": null,
+                                                                            "position": "14.00;54.50",
+                                                                            "size": "33;14",
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXRow",
+                                                    "description": null,
+                                                    "role_description": "outline row",
+                                                    "value": null,
+                                                    "position": "0.00;71.00",
+                                                    "size": "140;28",
+                                                    "children": [
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXCell",
+                                                            "description": null,
+                                                            "role_description": "cell",
+                                                            "value": null,
+                                                            "position": "10.00;71.00",
+                                                            "size": "120;28",
+                                                            "children": [
+                                                                {
+                                                                    "name": null,
+                                                                    "role": "AXStaticText",
+                                                                    "description": null,
+                                                                    "role_description": "text",
+                                                                    "value": "Chats",
+                                                                    "position": "19.00;76.79",
+                                                                    "size": "56;16",
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXRow",
+                                                    "description": null,
+                                                    "role_description": "outline row",
+                                                    "value": null,
+                                                    "position": "0.00;99.00",
+                                                    "size": "140;28",
+                                                    "children": [
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXCell",
+                                                            "description": null,
+                                                            "role_description": "cell",
+                                                            "value": null,
+                                                            "position": "10.00;99.00",
+                                                            "size": "120;28",
+                                                            "children": [
+                                                                {
+                                                                    "name": null,
+                                                                    "role": "AXStaticText",
+                                                                    "description": null,
+                                                                    "role_description": "text",
+                                                                    "value": "Help",
+                                                                    "position": "19.50;105.00",
+                                                                    "size": "48;16",
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXRow",
+                                                    "description": null,
+                                                    "role_description": "outline row",
+                                                    "value": null,
+                                                    "position": "0.00;127.00",
+                                                    "size": "140;28",
+                                                    "children": [
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXCell",
+                                                            "description": null,
+                                                            "role_description": "cell",
+                                                            "value": null,
+                                                            "position": "10.00;127.00",
+                                                            "size": "120;28",
+                                                            "children": [
+                                                                {
+                                                                    "name": null,
+                                                                    "role": "AXStaticText",
+                                                                    "description": null,
+                                                                    "role_description": "text",
+                                                                    "value": "Referral",
+                                                                    "position": "20.00;133.04",
+                                                                    "size": "68;16",
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXRow",
+                                                    "description": null,
+                                                    "role_description": "outline row",
+                                                    "value": null,
+                                                    "position": "0.00;155.00",
+                                                    "size": "140;28",
+                                                    "children": [
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXCell",
+                                                            "description": null,
+                                                            "role_description": "cell",
+                                                            "value": null,
+                                                            "position": "10.00;155.00",
+                                                            "size": "120;28",
+                                                            "children": [
+                                                                {
+                                                                    "name": null,
+                                                                    "role": "AXStaticText",
+                                                                    "description": null,
+                                                                    "role_description": "text",
+                                                                    "value": "About",
+                                                                    "position": "19.00;161.00",
+                                                                    "size": "58;16",
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXColumn",
+                                                    "description": null,
+                                                    "role_description": "column",
+                                                    "value": null,
+                                                    "position": "10.00;52.00",
+                                                    "size": "120;896",
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXButton",
+                                    "description": "v2.0.5 (78)",
+                                    "role_description": "button",
+                                    "value": null,
+                                    "position": "16.00;957.00",
+                                    "size": "57;14",
+                                    "children": []
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXButton",
+                                    "description": "Settings",
+                                    "role_description": "button",
+                                    "value": null,
+                                    "position": "108.00;956.00",
+                                    "size": "16;16",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXSplitter",
+                            "description": null,
+                            "role_description": "splitter",
+                            "value": 140.0,
+                            "position": "140.00;52.00",
+                            "size": "1;936",
+                            "children": []
+                        },
+                        {
+                            "name": null,
+                            "role": "AXGroup",
+                            "description": null,
+                            "role_description": "group",
+                            "value": null,
+                            "position": "141.00;0.00",
+                            "size": "280;988",
+                            "children": [
+                                {
+                                    "name": null,
+                                    "role": "AXScrollArea",
+                                    "description": null,
+                                    "role_description": "scroll area",
+                                    "value": null,
+                                    "position": "141.00;52.00",
+                                    "size": "280;936",
+                                    "children": [
+                                        {
+                                            "name": null,
+                                            "role": "AXTable",
+                                            "description": null,
+                                            "role_description": "list",
+                                            "value": null,
+                                            "position": "141.00;52.00",
+                                            "size": "280;936",
+                                            "children": [
+                                                {
+                                                    "name": null,
+                                                    "role": "AXRow",
+                                                    "description": null,
+                                                    "role_description": "table row",
+                                                    "value": null,
+                                                    "position": "141.00;62.00",
+                                                    "size": "280;30",
+                                                    "children": [
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXCell",
+                                                            "description": null,
+                                                            "role_description": "cell",
+                                                            "value": null,
+                                                            "position": "157.00;62.00",
+                                                            "size": "248;30",
+                                                            "children": [
+                                                                {
+                                                                    "name": null,
+                                                                    "role": "AXTextField",
+                                                                    "description": null,
+                                                                    "role_description": "search text field",
+                                                                    "value": "",
+                                                                    "position": "150.00;62.00",
+                                                                    "size": "262;30",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "",
+                                                                            "role": "AXButton",
+                                                                            "description": "Search",
+                                                                            "role_description": "button",
+                                                                            "value": null,
+                                                                            "position": "152.00;66.00",
+                                                                            "size": "25;22",
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXRow",
+                                                    "description": null,
+                                                    "role_description": "table row",
+                                                    "value": null,
+                                                    "position": "141.00;112.00",
+                                                    "size": "280;0",
+                                                    "children": [
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXCell",
+                                                            "description": null,
+                                                            "role_description": "cell",
+                                                            "value": null,
+                                                            "position": "141.00;112.00",
+                                                            "size": "280;0",
+                                                            "children": [
+                                                                {
+                                                                    "name": null,
+                                                                    "role": "AXGroup",
+                                                                    "description": null,
+                                                                    "role_description": "group",
+                                                                    "value": null,
+                                                                    "position": "157.00;112.00",
+                                                                    "size": "248;0",
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXRow",
+                                                    "description": null,
+                                                    "role_description": "table row",
+                                                    "value": null,
+                                                    "position": "141.00;112.00",
+                                                    "size": "280;24",
+                                                    "children": [
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXCell",
+                                                            "description": null,
+                                                            "role_description": "cell",
+                                                            "value": null,
+                                                            "position": "157.00;112.00",
+                                                            "size": "248;24",
+                                                            "children": [
+                                                                {
+                                                                    "name": null,
+                                                                    "role": "AXStaticText",
+                                                                    "description": null,
+                                                                    "role_description": "text",
+                                                                    "value": "History",
+                                                                    "position": "159.00;116.94",
+                                                                    "size": "60;14",
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXRow",
+                                                    "description": null,
+                                                    "role_description": "table row",
+                                                    "value": null,
+                                                    "position": "141.00;136.00",
+                                                    "size": "280;24",
+                                                    "children": [
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXCell",
+                                                            "description": null,
+                                                            "role_description": "cell",
+                                                            "value": null,
+                                                            "position": "157.00;136.00",
+                                                            "size": "248;24",
+                                                            "children": [
+                                                                {
+                                                                    "name": null,
+                                                                    "role": "AXButton",
+                                                                    "description": "New Chat, Now",
+                                                                    "role_description": "button",
+                                                                    "value": null,
+                                                                    "position": "157.00;140.00",
+                                                                    "size": "248;16",
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXRow",
+                                                    "description": null,
+                                                    "role_description": "table row",
+                                                    "value": null,
+                                                    "position": "141.00;160.00",
+                                                    "size": "280;24",
+                                                    "children": [
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXCell",
+                                                            "description": null,
+                                                            "role_description": "cell",
+                                                            "value": null,
+                                                            "position": "157.00;160.00",
+                                                            "size": "248;24",
+                                                            "children": [
+                                                                {
+                                                                    "name": null,
+                                                                    "role": "AXButton",
+                                                                    "description": "New Chat, 11:48",
+                                                                    "role_description": "button",
+                                                                    "value": null,
+                                                                    "position": "157.00;164.00",
+                                                                    "size": "248;16",
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXColumn",
+                                                    "description": null,
+                                                    "role_description": "column",
+                                                    "value": null,
+                                                    "position": "151.00;52.00",
+                                                    "size": "260;936",
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXSplitter",
+                            "description": null,
+                            "role_description": "splitter",
+                            "value": 280.0,
+                            "position": "421.00;52.00",
+                            "size": "1;936",
+                            "children": []
+                        },
+                        {
+                            "name": null,
+                            "role": "AXGroup",
+                            "description": null,
+                            "role_description": "group",
+                            "value": null,
+                            "position": "422.00;0.00",
+                            "size": "1306;988",
+                            "children": [
+                                {
+                                    "name": null,
+                                    "role": "AXScrollArea",
+                                    "description": null,
+                                    "role_description": "scroll area",
+                                    "value": null,
+                                    "position": "438.00;76.00",
+                                    "size": "1274;834",
+                                    "children": [
+                                        {
+                                            "name": null,
+                                            "role": "AXOpaqueProviderGroup",
+                                            "description": null,
+                                            "role_description": "list",
+                                            "value": null,
+                                            "position": "-436.00;429.00",
+                                            "size": "2148;122",
+                                            "children": [
+                                                {
+                                                    "name": null,
+                                                    "role": "AXStaticText",
+                                                    "description": null,
+                                                    "role_description": "text",
+                                                    "value": "Create",
+                                                    "position": "-335.00;430.50",
+                                                    "size": "100;28",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXButton",
+                                                    "description": "Devise a zero-gravity sport, for space travelers.",
+                                                    "role_description": "button",
+                                                    "value": null,
+                                                    "position": "-436.00;477.50",
+                                                    "size": "300;74",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXStaticText",
+                                                    "description": null,
+                                                    "role_description": "text",
+                                                    "value": "Explain",
+                                                    "position": "-29.00;429.00",
+                                                    "size": "104;32",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXButton",
+                                                    "description": "Describe rainbows, to a 5-year-old.",
+                                                    "role_description": "button",
+                                                    "value": null,
+                                                    "position": "-128.00;477.50",
+                                                    "size": "300;74",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXStaticText",
+                                                    "description": null,
+                                                    "role_description": "text",
+                                                    "value": "Entertain",
+                                                    "position": "267.50;431.50",
+                                                    "size": "128;26",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXButton",
+                                                    "description": "Reimagine a classic fairy tale, set in the modern world.",
+                                                    "role_description": "button",
+                                                    "value": null,
+                                                    "position": "180.00;477.50",
+                                                    "size": "300;74",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXStaticText",
+                                                    "description": null,
+                                                    "role_description": "text",
+                                                    "value": "Write",
+                                                    "position": "593.00;431.25",
+                                                    "size": "91;26",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXButton",
+                                                    "description": "Pen a dog's diary, for a day.",
+                                                    "role_description": "button",
+                                                    "value": null,
+                                                    "position": "488.00;477.50",
+                                                    "size": "300;74",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXStaticText",
+                                                    "description": null,
+                                                    "role_description": "text",
+                                                    "value": "Help",
+                                                    "position": "908.00;431.25",
+                                                    "size": "79;26",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXButton",
+                                                    "description": "Start conversations, confidently at events.",
+                                                    "role_description": "button",
+                                                    "value": null,
+                                                    "position": "796.00;477.50",
+                                                    "size": "300;74",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXStaticText",
+                                                    "description": null,
+                                                    "role_description": "text",
+                                                    "value": "Plan",
+                                                    "position": "1220.00;431.50",
+                                                    "size": "70;27",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXButton",
+                                                    "description": "Organize vegetarian meals, for a busy student.",
+                                                    "role_description": "button",
+                                                    "value": null,
+                                                    "position": "1104.00;477.50",
+                                                    "size": "300;74",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXStaticText",
+                                                    "description": null,
+                                                    "role_description": "text",
+                                                    "value": "Guide",
+                                                    "position": "1518.50;431.50",
+                                                    "size": "89;26",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXButton",
+                                                    "description": "Set up a budget, for a student.",
+                                                    "role_description": "button",
+                                                    "value": null,
+                                                    "position": "1412.00;477.50",
+                                                    "size": "300;74",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": null,
+                                            "role": "AXScrollBar",
+                                            "description": null,
+                                            "role_description": "scroll bar",
+                                            "value": 1.0,
+                                            "position": "438.00;895.00",
+                                            "size": "1274;15",
+                                            "children": [
+                                                {
+                                                    "name": null,
+                                                    "role": "AXValueIndicator",
+                                                    "description": null,
+                                                    "role_description": "value indicator",
+                                                    "value": 1.0,
+                                                    "position": "949.50;895.00",
+                                                    "size": "760;15",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXButton",
+                                                    "description": null,
+                                                    "role_description": "increment arrow button",
+                                                    "value": null,
+                                                    "position": "438.00;895.00",
+                                                    "size": "0;0",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXButton",
+                                                    "description": null,
+                                                    "role_description": "decrement arrow button",
+                                                    "value": null,
+                                                    "position": "438.00;895.00",
+                                                    "size": "0;0",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXButton",
+                                                    "description": null,
+                                                    "role_description": "increment page button",
+                                                    "value": null,
+                                                    "position": "1710.00;895.00",
+                                                    "size": "2;15",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXButton",
+                                                    "description": null,
+                                                    "role_description": "decrement page button",
+                                                    "value": null,
+                                                    "position": "438.00;895.00",
+                                                    "size": "511;15",
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXScrollArea",
+                                    "description": null,
+                                    "role_description": "scroll area",
+                                    "value": null,
+                                    "position": "422.00;52.00",
+                                    "size": "1306;882",
+                                    "children": []
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXStaticText",
+                                    "description": null,
+                                    "role_description": "text",
+                                    "value": "Message",
+                                    "position": "450.00;951.00",
+                                    "size": "54;16",
+                                    "children": []
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXScrollArea",
+                                    "description": null,
+                                    "role_description": "scroll area",
+                                    "value": null,
+                                    "position": "444.00;951.00",
+                                    "size": "1226;16",
+                                    "children": [
+                                        {
+                                            "name": null,
+                                            "role": "AXTextArea",
+                                            "description": null,
+                                            "role_description": "text entry area",
+                                            "value": "",
+                                            "position": "444.00;951.00",
+                                            "size": "1211;16",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": null,
+                                            "role": "AXScrollBar",
+                                            "description": null,
+                                            "role_description": "scroll bar",
+                                            "value": 0.0,
+                                            "position": "1655.00;951.00",
+                                            "size": "15;16",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXButton",
+                                    "description": "Arrow Up Circle",
+                                    "role_description": "button",
+                                    "value": null,
+                                    "position": "1688.00;947.00",
+                                    "size": "24;24",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXToolbar",
+            "description": null,
+            "role_description": "toolbar",
+            "value": null,
+            "position": "0.00;0.00",
+            "size": "1728;52",
+            "children": [
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "Hide Sidebar",
+                    "role_description": "button",
+                    "value": null,
+                    "position": "87.00;0.00",
+                    "size": "42;52",
+                    "children": [
+                        {
+                            "name": null,
+                            "role": "AXButton",
+                            "description": "Hide Sidebar",
+                            "role_description": "button",
+                            "value": null,
+                            "position": "96.50;14.00",
+                            "size": "24;18",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "New Chat",
+                    "role_description": "button",
+                    "value": null,
+                    "position": "377.00;0.00",
+                    "size": "36;52",
+                    "children": [
+                        {
+                            "name": null,
+                            "role": "AXButton",
+                            "description": "New Chat",
+                            "role_description": "button",
+                            "value": null,
+                            "position": "386.00;14.00",
+                            "size": "18;17",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXGroup",
+                    "description": null,
+                    "role_description": "group",
+                    "value": null,
+                    "position": "430.00;0.00",
+                    "size": "88;52",
+                    "children": [
+                        {
+                            "name": "GPT-4o",
+                            "role": "AXPopUpButton",
+                            "description": null,
+                            "role_description": "pop up button",
+                            "value": null,
+                            "position": "434.00;12.00",
+                            "size": "80;28",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "Edit Chat",
+                    "role_description": "button",
+                    "value": null,
+                    "position": "1507.00;0.00",
+                    "size": "36;52",
+                    "children": [
+                        {
+                            "name": null,
+                            "role": "AXButton",
+                            "description": "Edit Chat",
+                            "role_description": "button",
+                            "value": null,
+                            "position": "1516.00;14.00",
+                            "size": "18;17",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "Pin Chat",
+                    "role_description": "button",
+                    "value": null,
+                    "position": "1552.00;0.00",
+                    "size": "37;52",
+                    "children": [
+                        {
+                            "name": null,
+                            "role": "AXButton",
+                            "description": "Pin Chat",
+                            "role_description": "button",
+                            "value": null,
+                            "position": "1561.00;14.00",
+                            "size": "19;22",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "Clear Chat",
+                    "role_description": "button",
+                    "value": null,
+                    "position": "1598.00;0.00",
+                    "size": "39;52",
+                    "children": [
+                        {
+                            "name": null,
+                            "role": "AXButton",
+                            "description": "Clear Chat",
+                            "role_description": "button",
+                            "value": null,
+                            "position": "1607.50;14.00",
+                            "size": "20;20",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "Delete Chat",
+                    "role_description": "button",
+                    "value": null,
+                    "position": "1637.00;0.00",
+                    "size": "37;52",
+                    "children": [
+                        {
+                            "name": null,
+                            "role": "AXButton",
+                            "description": "Delete Chat",
+                            "role_description": "button",
+                            "value": null,
+                            "position": "1646.00;14.00",
+                            "size": "19;22",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "Share Chat",
+                    "role_description": "button",
+                    "value": null,
+                    "position": "1683.00;0.00",
+                    "size": "37;52",
+                    "children": [
+                        {
+                            "name": null,
+                            "role": "AXButton",
+                            "description": "Share Chat",
+                            "role_description": "button",
+                            "value": null,
+                            "position": "1692.00;14.00",
+                            "size": "19;23",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "close button",
+            "value": null,
+            "position": "19.00;18.00",
+            "size": "14;16",
+            "children": []
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "full screen button",
+            "value": null,
+            "position": "59.00;18.00",
+            "size": "14;16",
+            "children": [
+                {
+                    "name": null,
+                    "role": "AXGroup",
+                    "description": null,
+                    "role_description": "group",
+                    "value": null,
+                    "position": "59.00;18.00",
+                    "size": "14;16",
+                    "children": [
+                        {
+                            "name": null,
+                            "role": "AXGroup",
+                            "description": null,
+                            "role_description": "group",
+                            "value": null,
+                            "position": "59.00;18.00",
+                            "size": "14;16",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "minimize button",
+            "value": null,
+            "position": "39.00;18.00",
+            "size": "14;16",
+            "children": []
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Chats",
+            "position": "149.00;0.00",
+            "size": "228;52",
+            "children": []
+        }
+    ]
+}
