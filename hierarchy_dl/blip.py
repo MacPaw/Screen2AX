@@ -13,7 +13,7 @@ print(f"Using device: {device}")
 
 cache_dir = "./.models"
 
-model_path = "macpaw-research/blip-icon-captioning"
+model_path = "MacPaw/blip-icon-captioning"
 processor = BlipProcessor.from_pretrained(model_path, cache_dir=cache_dir)
 model = BlipForConditionalGeneration.from_pretrained(model_path, cache_dir=cache_dir).to(device)
 model.eval()

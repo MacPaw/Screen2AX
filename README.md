@@ -8,16 +8,16 @@ A research-driven project for generating accessibility of macOS applications usi
 
 ## 📁 Datasets
 
-- [Screen2AX-Tree](https://huggingface.co/datasets/macpaw-research/Screen2AX-Tree)
-- [Screen2AX-Element](https://huggingface.co/datasets/macpaw-research/Screen2AX-Element)
-- [Screen2AX-Group](https://huggingface.co/datasets/macpaw-research/Screen2AX-Group)
-- [Screen2AX-Task](https://huggingface.co/datasets/macpaw-research/Screen2AX-Task)
+- [Screen2AX-Tree](https://huggingface.co/datasets/MacPaw/Screen2AX-Tree)
+- [Screen2AX-Element](https://huggingface.co/datasets/MacPaw/Screen2AX-Element)
+- [Screen2AX-Group](https://huggingface.co/datasets/MacPaw/Screen2AX-Group)
+- [Screen2AX-Task](https://huggingface.co/datasets/MacPaw/Screen2AX-Task)
 
 ## 🤖 Models
 
-- [YOLOv11l — UI Elements Detection](https://huggingface.co/macpaw-research/yolov11l-ui-elements-detection)  
-- [BLIP — UI Elements Captioning](https://huggingface.co/macpaw-research/blip-icon-captioning)
-- [YOLOv11l — UI Groups Detection](https://huggingface.co/macpaw-research/yolov11l-ui-groups-detection)  
+- [YOLOv11l — UI Elements Detection](https://huggingface.co/MacPaw/yolov11l-ui-elements-detection)  
+- [BLIP — UI Elements Captioning](https://huggingface.co/MacPaw/blip-icon-captioning)
+- [YOLOv11l — UI Groups Detection](https://huggingface.co/MacPaw/yolov11l-ui-groups-detection)  
 
 ---
 
