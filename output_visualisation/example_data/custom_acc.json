@@ -1,0 +1,2915 @@
+{
+    "cls": "Group",
+    "value": null,
+    "box": [
+        0,
+        0,
+        3456,
+        1976
+    ],
+    "children": [
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                173,
+                14,
+                261,
+                82
+            ],
+            "children": [
+                {
+                    "cls": "AXButton",
+                    "value": "go to news | news | news",
+                    "box": [
+                        171,
+                        0,
+                        261,
+                        101
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                3101,
+                13,
+                3180,
+                89
+            ],
+            "children": [
+                {
+                    "cls": "AXButton",
+                    "value": "add to cart | go to cart | go to cart",
+                    "box": [
+                        3097,
+                        0,
+                        3185,
+                        101
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                2998,
+                8,
+                3091,
+                91
+            ],
+            "children": [
+                {
+                    "cls": "AXButton",
+                    "value": "edit | edit text | edit text",
+                    "box": [
+                        3006,
+                        0,
+                        3092,
+                        101
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                3187,
+                12,
+                3287,
+                92
+            ],
+            "children": [
+                {
+                    "cls": "AXButton",
+                    "value": "click to save | save | save the article",
+                    "box": [
+                        3190,
+                        0,
+                        3275,
+                        100
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                3275,
+                15,
+                3398,
+                89
+            ],
+            "children": [
+                {
+                    "cls": "AXButton",
+                    "value": "delete | delete the file | delete the file",
+                    "box": [
+                        3276,
+                        0,
+                        3361,
+                        100
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "AXButton",
+                    "value": "save | save the image | save the image",
+                    "box": [
+                        3362,
+                        1,
+                        3447,
+                        98
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        3187,
+                        12,
+                        3287,
+                        92
+                    ],
+                    "children": [
+                        {
+                            "cls": "AXButton",
+                            "value": "click to save | save | save the article",
+                            "box": [
+                                3190,
+                                0,
+                                3275,
+                                100
+                            ],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                5,
+                98,
+                261,
+                140
+            ],
+            "children": [
+                {
+                    "cls": "Text",
+                    "value": "Al Pro",
+                    "box": [
+                        25,
+                        110,
+                        95,
+                        135
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                13,
+                140,
+                260,
+                195
+            ],
+            "children": [
+                {
+                    "cls": "AXImage",
+                    "value": "(AI",
+                    "box": [
+                        35,
+                        153,
+                        70,
+                        185
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "Text",
+                    "value": "Chats",
+                    "box": [
+                        80,
+                        160,
+                        155,
+                        185
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "AXImage",
+                    "value": "add a | add to chat | send message",
+                    "box": [
+                        32,
+                        150,
+                        67,
+                        190
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                4,
+                252,
+                260,
+                308
+            ],
+            "children": [
+                {
+                    "cls": "AXButton",
+                    "value": "\uf8ff Referral",
+                    "box": [
+                        35,
+                        264,
+                        178,
+                        296
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "AXImage",
+                    "value": "add to cart | add to cart | go to cart",
+                    "box": [
+                        33,
+                        264,
+                        66,
+                        296
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                7,
+                195,
+                260,
+                252
+            ],
+            "children": [
+                {
+                    "cls": "AXButton",
+                    "value": "Help",
+                    "box": [
+                        70,
+                        208,
+                        140,
+                        240
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "AXImage",
+                    "value": "go to search | search",
+                    "box": [
+                        34,
+                        208,
+                        66,
+                        240
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                2,
+                308,
+                258,
+                365
+            ],
+            "children": [
+                {
+                    "cls": "AXButton",
+                    "value": "M About",
+                    "box": [
+                        35,
+                        321,
+                        160,
+                        352
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                288,
+                271,
+                823,
+                320
+            ],
+            "children": [
+                {
+                    "cls": "Text",
+                    "value": "New Chat",
+                    "box": [
+                        311,
+                        284,
+                        437,
+                        312
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "Text",
+                    "value": "Now",
+                    "box": [
+                        758,
+                        285,
+                        813,
+                        305
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                287,
+                318,
+                820,
+                371
+            ],
+            "children": [
+                {
+                    "cls": "Text",
+                    "value": "New Chat",
+                    "box": [
+                        311,
+                        330,
+                        437,
+                        356
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "Text",
+                    "value": "11:48",
+                    "box": [
+                        753,
+                        331,
+                        813,
+                        356
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        288,
+                        271,
+                        823,
+                        320
+                    ],
+                    "children": [
+                        {
+                            "cls": "Text",
+                            "value": "New Chat",
+                            "box": [
+                                311,
+                                284,
+                                437,
+                                312
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "Text",
+                            "value": "Now",
+                            "box": [
+                                758,
+                                285,
+                                813,
+                                305
+                            ],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                3022,
+                847,
+                3443,
+                924
+            ],
+            "children": [
+                {
+                    "cls": "Text",
+                    "value": "Guide",
+                    "box": [
+                        3099,
+                        867,
+                        3214,
+                        912
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                283,
+                208,
+                825,
+                269
+            ],
+            "children": [
+                {
+                    "cls": "Text",
+                    "value": "\u2022 History",
+                    "box": [
+                        316,
+                        235,
+                        442,
+                        260
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                2829,
+                969,
+                3443,
+                1093
+            ],
+            "children": [
+                {
+                    "cls": "AXTextArea",
+                    "value": null,
+                    "box": [
+                        2822,
+                        967,
+                        3431,
+                        1101
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "Text",
+                    "value": "Set up a budget\nfor a student.",
+                    "box": [
+                        2863,
+                        997,
+                        3064,
+                        1058
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "AXButton",
+                    "value": "go to the home page | go to the home page | go to home page",
+                    "box": [
+                        2829,
+                        960,
+                        3410,
+                        1101
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                1589,
+                966,
+                2198,
+                1094
+            ],
+            "children": [
+                {
+                    "cls": "Text",
+                    "value": "Start conversations\nconfidently at events.",
+                    "box": [
+                        1632,
+                        997,
+                        1898,
+                        1058
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "AXButton",
+                    "value": "go to home page | start conversations | start conversations",
+                    "box": [
+                        1588,
+                        964,
+                        2201,
+                        1099
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                2204,
+                965,
+                2820,
+                1095
+            ],
+            "children": [
+                {
+                    "cls": "Text",
+                    "value": "Organize vegetarian meals\nfor a busy student.",
+                    "box": [
+                        2245,
+                        997,
+                        2576,
+                        1058
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "AXButton",
+                    "value": "go to home page | open the homepage",
+                    "box": [
+                        2208,
+                        962,
+                        2816,
+                        1100
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                2211,
+                958,
+                3402,
+                1097
+            ],
+            "children": [
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        2829,
+                        969,
+                        3443,
+                        1093
+                    ],
+                    "children": [
+                        {
+                            "cls": "AXTextArea",
+                            "value": null,
+                            "box": [
+                                2822,
+                                967,
+                                3431,
+                                1101
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "Text",
+                            "value": "Set up a budget\nfor a student.",
+                            "box": [
+                                2863,
+                                997,
+                                3064,
+                                1058
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "AXButton",
+                            "value": "go to the home page | go to the home page | go to home page",
+                            "box": [
+                                2829,
+                                960,
+                                3410,
+                                1101
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        2204,
+                        965,
+                        2820,
+                        1095
+                    ],
+                    "children": [
+                        {
+                            "cls": "Text",
+                            "value": "Organize vegetarian meals\nfor a busy student.",
+                            "box": [
+                                2245,
+                                997,
+                                2576,
+                                1058
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "AXButton",
+                            "value": "go to home page | open the homepage",
+                            "box": [
+                                2208,
+                                962,
+                                2816,
+                                1100
+                            ],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                1661,
+                842,
+                3456,
+                951
+            ],
+            "children": [
+                {
+                    "cls": "Text",
+                    "value": "Help",
+                    "box": [
+                        1883,
+                        867,
+                        1974,
+                        917
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "Text",
+                    "value": "Plan",
+                    "box": [
+                        2501,
+                        872,
+                        2581,
+                        907
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        3022,
+                        847,
+                        3443,
+                        924
+                    ],
+                    "children": [
+                        {
+                            "cls": "Text",
+                            "value": "Guide",
+                            "box": [
+                                3099,
+                                867,
+                                3214,
+                                912
+                            ],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                1575,
+                952,
+                3189,
+                1100
+            ],
+            "children": [
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        1589,
+                        966,
+                        2198,
+                        1094
+                    ],
+                    "children": [
+                        {
+                            "cls": "Text",
+                            "value": "Start conversations\nconfidently at events.",
+                            "box": [
+                                1632,
+                                997,
+                                1898,
+                                1058
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "AXButton",
+                            "value": "go to home page | start conversations | start conversations",
+                            "box": [
+                                1588,
+                                964,
+                                2201,
+                                1099
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        2211,
+                        958,
+                        3402,
+                        1097
+                    ],
+                    "children": [
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                2829,
+                                969,
+                                3443,
+                                1093
+                            ],
+                            "children": [
+                                {
+                                    "cls": "AXTextArea",
+                                    "value": null,
+                                    "box": [
+                                        2822,
+                                        967,
+                                        3431,
+                                        1101
+                                    ],
+                                    "children": []
+                                },
+                                {
+                                    "cls": "Text",
+                                    "value": "Set up a budget\nfor a student.",
+                                    "box": [
+                                        2863,
+                                        997,
+                                        3064,
+                                        1058
+                                    ],
+                                    "children": []
+                                },
+                                {
+                                    "cls": "AXButton",
+                                    "value": "go to the home page | go to the home page | go to home page",
+                                    "box": [
+                                        2829,
+                                        960,
+                                        3410,
+                                        1101
+                                    ],
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                2204,
+                                965,
+                                2820,
+                                1095
+                            ],
+                            "children": [
+                                {
+                                    "cls": "Text",
+                                    "value": "Organize vegetarian meals\nfor a busy student.",
+                                    "box": [
+                                        2245,
+                                        997,
+                                        2576,
+                                        1058
+                                    ],
+                                    "children": []
+                                },
+                                {
+                                    "cls": "AXButton",
+                                    "value": "go to home page | open the homepage",
+                                    "box": [
+                                        2208,
+                                        962,
+                                        2816,
+                                        1100
+                                    ],
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                835,
+                844,
+                3164,
+                947
+            ],
+            "children": [
+                {
+                    "cls": "Text",
+                    "value": "2/ Write",
+                    "box": [
+                        1179,
+                        865,
+                        1371,
+                        920
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        1661,
+                        842,
+                        3456,
+                        951
+                    ],
+                    "children": [
+                        {
+                            "cls": "Text",
+                            "value": "Help",
+                            "box": [
+                                1883,
+                                867,
+                                1974,
+                                917
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "Text",
+                            "value": "Plan",
+                            "box": [
+                                2501,
+                                872,
+                                2581,
+                                907
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                3022,
+                                847,
+                                3443,
+                                924
+                            ],
+                            "children": [
+                                {
+                                    "cls": "Text",
+                                    "value": "Guide",
+                                    "box": [
+                                        3099,
+                                        867,
+                                        3214,
+                                        912
+                                    ],
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                762,
+                0,
+                3214,
+                103
+            ],
+            "children": [
+                {
+                    "cls": "AXImage",
+                    "value": "+",
+                    "box": [
+                        766,
+                        26,
+                        815,
+                        75
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "Text",
+                    "value": "GPT-40 v",
+                    "box": [
+                        884,
+                        40,
+                        1019,
+                        65
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "AXButton",
+                    "value": "go to the previous page | go to the previous page | go to the previous page",
+                    "box": [
+                        853,
+                        18,
+                        1035,
+                        87
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        3101,
+                        13,
+                        3180,
+                        89
+                    ],
+                    "children": [
+                        {
+                            "cls": "AXButton",
+                            "value": "add to cart | go to cart | go to cart",
+                            "box": [
+                                3097,
+                                0,
+                                3185,
+                                101
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        2998,
+                        8,
+                        3091,
+                        91
+                    ],
+                    "children": [
+                        {
+                            "cls": "AXButton",
+                            "value": "edit | edit text | edit text",
+                            "box": [
+                                3006,
+                                0,
+                                3092,
+                                101
+                            ],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                792,
+                1809,
+                3315,
+                1961
+            ],
+            "children": [
+                {
+                    "cls": "AXTextArea",
+                    "value": null,
+                    "box": [
+                        872,
+                        1786,
+                        1900,
+                        1818
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "AXTextArea",
+                    "value": null,
+                    "box": [
+                        874,
+                        1787,
+                        1502,
+                        1819
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "Text",
+                    "value": "Message",
+                    "box": [
+                        894,
+                        1900,
+                        1014,
+                        1930
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                0,
+                107,
+                275,
+                1944
+            ],
+            "children": [
+                {
+                    "cls": "Text",
+                    "value": "v2.0.5 (78)",
+                    "box": [
+                        30,
+                        1910,
+                        145,
+                        1936
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "AXButton",
+                    "value": "go to settings | settings",
+                    "box": [
+                        190,
+                        1901,
+                        267,
+                        1960
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "AXButton",
+                    "value": "go to previous | select the number | select number",
+                    "box": [
+                        0,
+                        1898,
+                        181,
+                        1964
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        5,
+                        98,
+                        261,
+                        140
+                    ],
+                    "children": [
+                        {
+                            "cls": "Text",
+                            "value": "Al Pro",
+                            "box": [
+                                25,
+                                110,
+                                95,
+                                135
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        13,
+                        140,
+                        260,
+                        195
+                    ],
+                    "children": [
+                        {
+                            "cls": "AXImage",
+                            "value": "(AI",
+                            "box": [
+                                35,
+                                153,
+                                70,
+                                185
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "Text",
+                            "value": "Chats",
+                            "box": [
+                                80,
+                                160,
+                                155,
+                                185
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "AXImage",
+                            "value": "add a | add to chat | send message",
+                            "box": [
+                                32,
+                                150,
+                                67,
+                                190
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        4,
+                        252,
+                        260,
+                        308
+                    ],
+                    "children": [
+                        {
+                            "cls": "AXButton",
+                            "value": "\uf8ff Referral",
+                            "box": [
+                                35,
+                                264,
+                                178,
+                                296
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "AXImage",
+                            "value": "add to cart | add to cart | go to cart",
+                            "box": [
+                                33,
+                                264,
+                                66,
+                                296
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        7,
+                        195,
+                        260,
+                        252
+                    ],
+                    "children": [
+                        {
+                            "cls": "AXButton",
+                            "value": "Help",
+                            "box": [
+                                70,
+                                208,
+                                140,
+                                240
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "AXImage",
+                            "value": "go to search | search",
+                            "box": [
+                                34,
+                                208,
+                                66,
+                                240
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        2,
+                        308,
+                        258,
+                        365
+                    ],
+                    "children": [
+                        {
+                            "cls": "AXButton",
+                            "value": "M About",
+                            "box": [
+                                35,
+                                321,
+                                160,
+                                352
+                            ],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                277,
+                204,
+                842,
+                1873
+            ],
+            "children": [
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        287,
+                        318,
+                        820,
+                        371
+                    ],
+                    "children": [
+                        {
+                            "cls": "Text",
+                            "value": "New Chat",
+                            "box": [
+                                311,
+                                330,
+                                437,
+                                356
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "Text",
+                            "value": "11:48",
+                            "box": [
+                                753,
+                                331,
+                                813,
+                                356
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                288,
+                                271,
+                                823,
+                                320
+                            ],
+                            "children": [
+                                {
+                                    "cls": "Text",
+                                    "value": "New Chat",
+                                    "box": [
+                                        311,
+                                        284,
+                                        437,
+                                        312
+                                    ],
+                                    "children": []
+                                },
+                                {
+                                    "cls": "Text",
+                                    "value": "Now",
+                                    "box": [
+                                        758,
+                                        285,
+                                        813,
+                                        305
+                                    ],
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        283,
+                        208,
+                        825,
+                        269
+                    ],
+                    "children": [
+                        {
+                            "cls": "Text",
+                            "value": "\u2022 History",
+                            "box": [
+                                316,
+                                235,
+                                442,
+                                260
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        835,
+                        844,
+                        3164,
+                        947
+                    ],
+                    "children": [
+                        {
+                            "cls": "Text",
+                            "value": "2/ Write",
+                            "box": [
+                                1179,
+                                865,
+                                1371,
+                                920
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                1661,
+                                842,
+                                3456,
+                                951
+                            ],
+                            "children": [
+                                {
+                                    "cls": "Text",
+                                    "value": "Help",
+                                    "box": [
+                                        1883,
+                                        867,
+                                        1974,
+                                        917
+                                    ],
+                                    "children": []
+                                },
+                                {
+                                    "cls": "Text",
+                                    "value": "Plan",
+                                    "box": [
+                                        2501,
+                                        872,
+                                        2581,
+                                        907
+                                    ],
+                                    "children": []
+                                },
+                                {
+                                    "cls": "Group",
+                                    "value": null,
+                                    "box": [
+                                        3022,
+                                        847,
+                                        3443,
+                                        924
+                                    ],
+                                    "children": [
+                                        {
+                                            "cls": "Text",
+                                            "value": "Guide",
+                                            "box": [
+                                                3099,
+                                                867,
+                                                3214,
+                                                912
+                                            ],
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        792,
+                        1809,
+                        3315,
+                        1961
+                    ],
+                    "children": [
+                        {
+                            "cls": "AXTextArea",
+                            "value": null,
+                            "box": [
+                                872,
+                                1786,
+                                1900,
+                                1818
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "AXTextArea",
+                            "value": null,
+                            "box": [
+                                874,
+                                1787,
+                                1502,
+                                1819
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "Text",
+                            "value": "Message",
+                            "box": [
+                                894,
+                                1900,
+                                1014,
+                                1930
+                            ],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                850,
+                0,
+                3451,
+                864
+            ],
+            "children": [
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        3275,
+                        15,
+                        3398,
+                        89
+                    ],
+                    "children": [
+                        {
+                            "cls": "AXButton",
+                            "value": "delete | delete the file | delete the file",
+                            "box": [
+                                3276,
+                                0,
+                                3361,
+                                100
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "AXButton",
+                            "value": "save | save the image | save the image",
+                            "box": [
+                                3362,
+                                1,
+                                3447,
+                                98
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                3187,
+                                12,
+                                3287,
+                                92
+                            ],
+                            "children": [
+                                {
+                                    "cls": "AXButton",
+                                    "value": "click to save | save | save the article",
+                                    "box": [
+                                        3190,
+                                        0,
+                                        3275,
+                                        100
+                                    ],
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        762,
+                        0,
+                        3214,
+                        103
+                    ],
+                    "children": [
+                        {
+                            "cls": "AXImage",
+                            "value": "+",
+                            "box": [
+                                766,
+                                26,
+                                815,
+                                75
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "Text",
+                            "value": "GPT-40 v",
+                            "box": [
+                                884,
+                                40,
+                                1019,
+                                65
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "AXButton",
+                            "value": "go to the previous page | go to the previous page | go to the previous page",
+                            "box": [
+                                853,
+                                18,
+                                1035,
+                                87
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                3101,
+                                13,
+                                3180,
+                                89
+                            ],
+                            "children": [
+                                {
+                                    "cls": "AXButton",
+                                    "value": "add to cart | go to cart | go to cart",
+                                    "box": [
+                                        3097,
+                                        0,
+                                        3185,
+                                        101
+                                    ],
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                2998,
+                                8,
+                                3091,
+                                91
+                            ],
+                            "children": [
+                                {
+                                    "cls": "AXButton",
+                                    "value": "edit | edit text | edit text",
+                                    "box": [
+                                        3006,
+                                        0,
+                                        3092,
+                                        101
+                                    ],
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                833,
+                960,
+                3456,
+                1967
+            ],
+            "children": [
+                {
+                    "cls": "Text",
+                    "value": "Pen a dog's diary\nfor a day.",
+                    "box": [
+                        1014,
+                        997,
+                        1230,
+                        1058
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "AXButton",
+                    "value": "go to previous | go to previous page | previous page",
+                    "box": [
+                        3372,
+                        1886,
+                        3431,
+                        1946
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        1575,
+                        952,
+                        3189,
+                        1100
+                    ],
+                    "children": [
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                1589,
+                                966,
+                                2198,
+                                1094
+                            ],
+                            "children": [
+                                {
+                                    "cls": "Text",
+                                    "value": "Start conversations\nconfidently at events.",
+                                    "box": [
+                                        1632,
+                                        997,
+                                        1898,
+                                        1058
+                                    ],
+                                    "children": []
+                                },
+                                {
+                                    "cls": "AXButton",
+                                    "value": "go to home page | start conversations | start conversations",
+                                    "box": [
+                                        1588,
+                                        964,
+                                        2201,
+                                        1099
+                                    ],
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                2211,
+                                958,
+                                3402,
+                                1097
+                            ],
+                            "children": [
+                                {
+                                    "cls": "Group",
+                                    "value": null,
+                                    "box": [
+                                        2829,
+                                        969,
+                                        3443,
+                                        1093
+                                    ],
+                                    "children": [
+                                        {
+                                            "cls": "AXTextArea",
+                                            "value": null,
+                                            "box": [
+                                                2822,
+                                                967,
+                                                3431,
+                                                1101
+                                            ],
+                                            "children": []
+                                        },
+                                        {
+                                            "cls": "Text",
+                                            "value": "Set up a budget\nfor a student.",
+                                            "box": [
+                                                2863,
+                                                997,
+                                                3064,
+                                                1058
+                                            ],
+                                            "children": []
+                                        },
+                                        {
+                                            "cls": "AXButton",
+                                            "value": "go to the home page | go to the home page | go to home page",
+                                            "box": [
+                                                2829,
+                                                960,
+                                                3410,
+                                                1101
+                                            ],
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "cls": "Group",
+                                    "value": null,
+                                    "box": [
+                                        2204,
+                                        965,
+                                        2820,
+                                        1095
+                                    ],
+                                    "children": [
+                                        {
+                                            "cls": "Text",
+                                            "value": "Organize vegetarian meals\nfor a busy student.",
+                                            "box": [
+                                                2245,
+                                                997,
+                                                2576,
+                                                1058
+                                            ],
+                                            "children": []
+                                        },
+                                        {
+                                            "cls": "AXButton",
+                                            "value": "go to home page | open the homepage",
+                                            "box": [
+                                                2208,
+                                                962,
+                                                2816,
+                                                1100
+                                            ],
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        277,
+                        204,
+                        842,
+                        1873
+                    ],
+                    "children": [
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                287,
+                                318,
+                                820,
+                                371
+                            ],
+                            "children": [
+                                {
+                                    "cls": "Text",
+                                    "value": "New Chat",
+                                    "box": [
+                                        311,
+                                        330,
+                                        437,
+                                        356
+                                    ],
+                                    "children": []
+                                },
+                                {
+                                    "cls": "Text",
+                                    "value": "11:48",
+                                    "box": [
+                                        753,
+                                        331,
+                                        813,
+                                        356
+                                    ],
+                                    "children": []
+                                },
+                                {
+                                    "cls": "Group",
+                                    "value": null,
+                                    "box": [
+                                        288,
+                                        271,
+                                        823,
+                                        320
+                                    ],
+                                    "children": [
+                                        {
+                                            "cls": "Text",
+                                            "value": "New Chat",
+                                            "box": [
+                                                311,
+                                                284,
+                                                437,
+                                                312
+                                            ],
+                                            "children": []
+                                        },
+                                        {
+                                            "cls": "Text",
+                                            "value": "Now",
+                                            "box": [
+                                                758,
+                                                285,
+                                                813,
+                                                305
+                                            ],
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                283,
+                                208,
+                                825,
+                                269
+                            ],
+                            "children": [
+                                {
+                                    "cls": "Text",
+                                    "value": "\u2022 History",
+                                    "box": [
+                                        316,
+                                        235,
+                                        442,
+                                        260
+                                    ],
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                835,
+                                844,
+                                3164,
+                                947
+                            ],
+                            "children": [
+                                {
+                                    "cls": "Text",
+                                    "value": "2/ Write",
+                                    "box": [
+                                        1179,
+                                        865,
+                                        1371,
+                                        920
+                                    ],
+                                    "children": []
+                                },
+                                {
+                                    "cls": "Group",
+                                    "value": null,
+                                    "box": [
+                                        1661,
+                                        842,
+                                        3456,
+                                        951
+                                    ],
+                                    "children": [
+                                        {
+                                            "cls": "Text",
+                                            "value": "Help",
+                                            "box": [
+                                                1883,
+                                                867,
+                                                1974,
+                                                917
+                                            ],
+                                            "children": []
+                                        },
+                                        {
+                                            "cls": "Text",
+                                            "value": "Plan",
+                                            "box": [
+                                                2501,
+                                                872,
+                                                2581,
+                                                907
+                                            ],
+                                            "children": []
+                                        },
+                                        {
+                                            "cls": "Group",
+                                            "value": null,
+                                            "box": [
+                                                3022,
+                                                847,
+                                                3443,
+                                                924
+                                            ],
+                                            "children": [
+                                                {
+                                                    "cls": "Text",
+                                                    "value": "Guide",
+                                                    "box": [
+                                                        3099,
+                                                        867,
+                                                        3214,
+                                                        912
+                                                    ],
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                792,
+                                1809,
+                                3315,
+                                1961
+                            ],
+                            "children": [
+                                {
+                                    "cls": "AXTextArea",
+                                    "value": null,
+                                    "box": [
+                                        872,
+                                        1786,
+                                        1900,
+                                        1818
+                                    ],
+                                    "children": []
+                                },
+                                {
+                                    "cls": "AXTextArea",
+                                    "value": null,
+                                    "box": [
+                                        874,
+                                        1787,
+                                        1502,
+                                        1819
+                                    ],
+                                    "children": []
+                                },
+                                {
+                                    "cls": "Text",
+                                    "value": "Message",
+                                    "box": [
+                                        894,
+                                        1900,
+                                        1014,
+                                        1930
+                                    ],
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cls": "Group",
+            "value": null,
+            "box": [
+                0,
+                19,
+                3438,
+                1976
+            ],
+            "children": [
+                {
+                    "cls": "AXTextArea",
+                    "value": null,
+                    "box": [
+                        299,
+                        121,
+                        820,
+                        185
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "Text",
+                    "value": "Chats",
+                    "box": [
+                        306,
+                        39,
+                        396,
+                        65
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "Text",
+                    "value": "Q Search",
+                    "box": [
+                        311,
+                        139,
+                        447,
+                        171
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "AXButton",
+                    "value": "go to the next page | go to the next page",
+                    "box": [
+                        34,
+                        34,
+                        66,
+                        66
+                    ],
+                    "children": []
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        173,
+                        14,
+                        261,
+                        82
+                    ],
+                    "children": [
+                        {
+                            "cls": "AXButton",
+                            "value": "go to news | news | news",
+                            "box": [
+                                171,
+                                0,
+                                261,
+                                101
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        0,
+                        107,
+                        275,
+                        1944
+                    ],
+                    "children": [
+                        {
+                            "cls": "Text",
+                            "value": "v2.0.5 (78)",
+                            "box": [
+                                30,
+                                1910,
+                                145,
+                                1936
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "AXButton",
+                            "value": "go to settings | settings",
+                            "box": [
+                                190,
+                                1901,
+                                267,
+                                1960
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "AXButton",
+                            "value": "go to previous | select the number | select number",
+                            "box": [
+                                0,
+                                1898,
+                                181,
+                                1964
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                5,
+                                98,
+                                261,
+                                140
+                            ],
+                            "children": [
+                                {
+                                    "cls": "Text",
+                                    "value": "Al Pro",
+                                    "box": [
+                                        25,
+                                        110,
+                                        95,
+                                        135
+                                    ],
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                13,
+                                140,
+                                260,
+                                195
+                            ],
+                            "children": [
+                                {
+                                    "cls": "AXImage",
+                                    "value": "(AI",
+                                    "box": [
+                                        35,
+                                        153,
+                                        70,
+                                        185
+                                    ],
+                                    "children": []
+                                },
+                                {
+                                    "cls": "Text",
+                                    "value": "Chats",
+                                    "box": [
+                                        80,
+                                        160,
+                                        155,
+                                        185
+                                    ],
+                                    "children": []
+                                },
+                                {
+                                    "cls": "AXImage",
+                                    "value": "add a | add to chat | send message",
+                                    "box": [
+                                        32,
+                                        150,
+                                        67,
+                                        190
+                                    ],
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                4,
+                                252,
+                                260,
+                                308
+                            ],
+                            "children": [
+                                {
+                                    "cls": "AXButton",
+                                    "value": "\uf8ff Referral",
+                                    "box": [
+                                        35,
+                                        264,
+                                        178,
+                                        296
+                                    ],
+                                    "children": []
+                                },
+                                {
+                                    "cls": "AXImage",
+                                    "value": "add to cart | add to cart | go to cart",
+                                    "box": [
+                                        33,
+                                        264,
+                                        66,
+                                        296
+                                    ],
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                7,
+                                195,
+                                260,
+                                252
+                            ],
+                            "children": [
+                                {
+                                    "cls": "AXButton",
+                                    "value": "Help",
+                                    "box": [
+                                        70,
+                                        208,
+                                        140,
+                                        240
+                                    ],
+                                    "children": []
+                                },
+                                {
+                                    "cls": "AXImage",
+                                    "value": "go to search | search",
+                                    "box": [
+                                        34,
+                                        208,
+                                        66,
+                                        240
+                                    ],
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                2,
+                                308,
+                                258,
+                                365
+                            ],
+                            "children": [
+                                {
+                                    "cls": "AXButton",
+                                    "value": "M About",
+                                    "box": [
+                                        35,
+                                        321,
+                                        160,
+                                        352
+                                    ],
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        850,
+                        0,
+                        3451,
+                        864
+                    ],
+                    "children": [
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                3275,
+                                15,
+                                3398,
+                                89
+                            ],
+                            "children": [
+                                {
+                                    "cls": "AXButton",
+                                    "value": "delete | delete the file | delete the file",
+                                    "box": [
+                                        3276,
+                                        0,
+                                        3361,
+                                        100
+                                    ],
+                                    "children": []
+                                },
+                                {
+                                    "cls": "AXButton",
+                                    "value": "save | save the image | save the image",
+                                    "box": [
+                                        3362,
+                                        1,
+                                        3447,
+                                        98
+                                    ],
+                                    "children": []
+                                },
+                                {
+                                    "cls": "Group",
+                                    "value": null,
+                                    "box": [
+                                        3187,
+                                        12,
+                                        3287,
+                                        92
+                                    ],
+                                    "children": [
+                                        {
+                                            "cls": "AXButton",
+                                            "value": "click to save | save | save the article",
+                                            "box": [
+                                                3190,
+                                                0,
+                                                3275,
+                                                100
+                                            ],
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                762,
+                                0,
+                                3214,
+                                103
+                            ],
+                            "children": [
+                                {
+                                    "cls": "AXImage",
+                                    "value": "+",
+                                    "box": [
+                                        766,
+                                        26,
+                                        815,
+                                        75
+                                    ],
+                                    "children": []
+                                },
+                                {
+                                    "cls": "Text",
+                                    "value": "GPT-40 v",
+                                    "box": [
+                                        884,
+                                        40,
+                                        1019,
+                                        65
+                                    ],
+                                    "children": []
+                                },
+                                {
+                                    "cls": "AXButton",
+                                    "value": "go to the previous page | go to the previous page | go to the previous page",
+                                    "box": [
+                                        853,
+                                        18,
+                                        1035,
+                                        87
+                                    ],
+                                    "children": []
+                                },
+                                {
+                                    "cls": "Group",
+                                    "value": null,
+                                    "box": [
+                                        3101,
+                                        13,
+                                        3180,
+                                        89
+                                    ],
+                                    "children": [
+                                        {
+                                            "cls": "AXButton",
+                                            "value": "add to cart | go to cart | go to cart",
+                                            "box": [
+                                                3097,
+                                                0,
+                                                3185,
+                                                101
+                                            ],
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "cls": "Group",
+                                    "value": null,
+                                    "box": [
+                                        2998,
+                                        8,
+                                        3091,
+                                        91
+                                    ],
+                                    "children": [
+                                        {
+                                            "cls": "AXButton",
+                                            "value": "edit | edit text | edit text",
+                                            "box": [
+                                                3006,
+                                                0,
+                                                3092,
+                                                101
+                                            ],
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "cls": "Group",
+                    "value": null,
+                    "box": [
+                        833,
+                        960,
+                        3456,
+                        1967
+                    ],
+                    "children": [
+                        {
+                            "cls": "Text",
+                            "value": "Pen a dog's diary\nfor a day.",
+                            "box": [
+                                1014,
+                                997,
+                                1230,
+                                1058
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "AXButton",
+                            "value": "go to previous | go to previous page | previous page",
+                            "box": [
+                                3372,
+                                1886,
+                                3431,
+                                1946
+                            ],
+                            "children": []
+                        },
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                1575,
+                                952,
+                                3189,
+                                1100
+                            ],
+                            "children": [
+                                {
+                                    "cls": "Group",
+                                    "value": null,
+                                    "box": [
+                                        1589,
+                                        966,
+                                        2198,
+                                        1094
+                                    ],
+                                    "children": [
+                                        {
+                                            "cls": "Text",
+                                            "value": "Start conversations\nconfidently at events.",
+                                            "box": [
+                                                1632,
+                                                997,
+                                                1898,
+                                                1058
+                                            ],
+                                            "children": []
+                                        },
+                                        {
+                                            "cls": "AXButton",
+                                            "value": "go to home page | start conversations | start conversations",
+                                            "box": [
+                                                1588,
+                                                964,
+                                                2201,
+                                                1099
+                                            ],
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "cls": "Group",
+                                    "value": null,
+                                    "box": [
+                                        2211,
+                                        958,
+                                        3402,
+                                        1097
+                                    ],
+                                    "children": [
+                                        {
+                                            "cls": "Group",
+                                            "value": null,
+                                            "box": [
+                                                2829,
+                                                969,
+                                                3443,
+                                                1093
+                                            ],
+                                            "children": [
+                                                {
+                                                    "cls": "AXTextArea",
+                                                    "value": null,
+                                                    "box": [
+                                                        2822,
+                                                        967,
+                                                        3431,
+                                                        1101
+                                                    ],
+                                                    "children": []
+                                                },
+                                                {
+                                                    "cls": "Text",
+                                                    "value": "Set up a budget\nfor a student.",
+                                                    "box": [
+                                                        2863,
+                                                        997,
+                                                        3064,
+                                                        1058
+                                                    ],
+                                                    "children": []
+                                                },
+                                                {
+                                                    "cls": "AXButton",
+                                                    "value": "go to the home page | go to the home page | go to home page",
+                                                    "box": [
+                                                        2829,
+                                                        960,
+                                                        3410,
+                                                        1101
+                                                    ],
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "cls": "Group",
+                                            "value": null,
+                                            "box": [
+                                                2204,
+                                                965,
+                                                2820,
+                                                1095
+                                            ],
+                                            "children": [
+                                                {
+                                                    "cls": "Text",
+                                                    "value": "Organize vegetarian meals\nfor a busy student.",
+                                                    "box": [
+                                                        2245,
+                                                        997,
+                                                        2576,
+                                                        1058
+                                                    ],
+                                                    "children": []
+                                                },
+                                                {
+                                                    "cls": "AXButton",
+                                                    "value": "go to home page | open the homepage",
+                                                    "box": [
+                                                        2208,
+                                                        962,
+                                                        2816,
+                                                        1100
+                                                    ],
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "cls": "Group",
+                            "value": null,
+                            "box": [
+                                277,
+                                204,
+                                842,
+                                1873
+                            ],
+                            "children": [
+                                {
+                                    "cls": "Group",
+                                    "value": null,
+                                    "box": [
+                                        287,
+                                        318,
+                                        820,
+                                        371
+                                    ],
+                                    "children": [
+                                        {
+                                            "cls": "Text",
+                                            "value": "New Chat",
+                                            "box": [
+                                                311,
+                                                330,
+                                                437,
+                                                356
+                                            ],
+                                            "children": []
+                                        },
+                                        {
+                                            "cls": "Text",
+                                            "value": "11:48",
+                                            "box": [
+                                                753,
+                                                331,
+                                                813,
+                                                356
+                                            ],
+                                            "children": []
+                                        },
+                                        {
+                                            "cls": "Group",
+                                            "value": null,
+                                            "box": [
+                                                288,
+                                                271,
+                                                823,
+                                                320
+                                            ],
+                                            "children": [
+                                                {
+                                                    "cls": "Text",
+                                                    "value": "New Chat",
+                                                    "box": [
+                                                        311,
+                                                        284,
+                                                        437,
+                                                        312
+                                                    ],
+                                                    "children": []
+                                                },
+                                                {
+                                                    "cls": "Text",
+                                                    "value": "Now",
+                                                    "box": [
+                                                        758,
+                                                        285,
+                                                        813,
+                                                        305
+                                                    ],
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "cls": "Group",
+                                    "value": null,
+                                    "box": [
+                                        283,
+                                        208,
+                                        825,
+                                        269
+                                    ],
+                                    "children": [
+                                        {
+                                            "cls": "Text",
+                                            "value": "\u2022 History",
+                                            "box": [
+                                                316,
+                                                235,
+                                                442,
+                                                260
+                                            ],
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "cls": "Group",
+                                    "value": null,
+                                    "box": [
+                                        835,
+                                        844,
+                                        3164,
+                                        947
+                                    ],
+                                    "children": [
+                                        {
+                                            "cls": "Text",
+                                            "value": "2/ Write",
+                                            "box": [
+                                                1179,
+                                                865,
+                                                1371,
+                                                920
+                                            ],
+                                            "children": []
+                                        },
+                                        {
+                                            "cls": "Group",
+                                            "value": null,
+                                            "box": [
+                                                1661,
+                                                842,
+                                                3456,
+                                                951
+                                            ],
+                                            "children": [
+                                                {
+                                                    "cls": "Text",
+                                                    "value": "Help",
+                                                    "box": [
+                                                        1883,
+                                                        867,
+                                                        1974,
+                                                        917
+                                                    ],
+                                                    "children": []
+                                                },
+                                                {
+                                                    "cls": "Text",
+                                                    "value": "Plan",
+                                                    "box": [
+                                                        2501,
+                                                        872,
+                                                        2581,
+                                                        907
+                                                    ],
+                                                    "children": []
+                                                },
+                                                {
+                                                    "cls": "Group",
+                                                    "value": null,
+                                                    "box": [
+                                                        3022,
+                                                        847,
+                                                        3443,
+                                                        924
+                                                    ],
+                                                    "children": [
+                                                        {
+                                                            "cls": "Text",
+                                                            "value": "Guide",
+                                                            "box": [
+                                                                3099,
+                                                                867,
+                                                                3214,
+                                                                912
+                                                            ],
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "cls": "Group",
+                                    "value": null,
+                                    "box": [
+                                        792,
+                                        1809,
+                                        3315,
+                                        1961
+                                    ],
+                                    "children": [
+                                        {
+                                            "cls": "AXTextArea",
+                                            "value": null,
+                                            "box": [
+                                                872,
+                                                1786,
+                                                1900,
+                                                1818
+                                            ],
+                                            "children": []
+                                        },
+                                        {
+                                            "cls": "AXTextArea",
+                                            "value": null,
+                                            "box": [
+                                                874,
+                                                1787,
+                                                1502,
+                                                1819
+                                            ],
+                                            "children": []
+                                        },
+                                        {
+                                            "cls": "Text",
+                                            "value": "Message",
+                                            "box": [
+                                                894,
+                                                1900,
+                                                1014,
+                                                1930
+                                            ],
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
