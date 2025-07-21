@@ -15,13 +15,13 @@ from huggingface_hub import hf_hub_download
 cache_dir = "./.models"
 
 ui_elements_model_path = hf_hub_download(
-    repo_id="macpaw-research/yolov11l-ui-elements-detection",
+    repo_id="MacPaw/yolov11l-ui-elements-detection",
     filename="ui-elements-detection.pt",
     cache_dir=cache_dir
 )
 
 ui_groups_model_path = hf_hub_download(
-    repo_id="macpaw-research/yolov11l-ui-groups-detection",
+    repo_id="MacPaw/yolov11l-ui-groups-detection",
     filename="ui-groups-detection.pt",
     cache_dir=cache_dir
 )
