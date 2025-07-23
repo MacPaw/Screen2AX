@@ -2,7 +2,7 @@
 
 # Screen2AX
 
-A research-driven project for generating accessibility of macOS applications using computer vision and deep learning. Read more about the project in our [paper]().
+A research-driven project for generating accessibility of macOS applications using computer vision and deep learning. Read more about the project in our [paper](https://arxiv.org/abs/2507.16704).
 
 ---
 
@@ -121,7 +121,15 @@ All source code in this repository is licensed under the MIT License. See the [L
 If you use this code in your research, please cite our paper:
 
 ```bibtex
-...
+@misc{muryn2025screen2axvisionbasedapproachautomatic,
+      title={Screen2AX: Vision-Based Approach for Automatic macOS Accessibility Generation}, 
+      author={Viktor Muryn and Marta Sumyk and Mariya Hirna and Sofiya Garkot and Maksym Shamrai},
+      year={2025},
+      eprint={2507.16704},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2507.16704}, 
+}
 ```
 
 ## 🙌 Acknowledgements
