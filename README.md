@@ -1,6 +1,6 @@
-[![MacPaw Research](https://pbs.twimg.com/profile_banners/3993798502/1720615716/1500x500)](https://research.macpaw.com)
-
 # Screen2AX
+
+![Screen2AX](.github/header.png)
 
 A research-driven project for generating accessibility of macOS applications using computer vision and deep learning. Read more about the project in our [paper](https://arxiv.org/abs/2507.16704).
 
