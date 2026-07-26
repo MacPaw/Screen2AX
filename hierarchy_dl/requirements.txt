@@ -36,7 +36,7 @@ opencv-python==4.11.0.86
 opentelemetry-api==1.26.0
 packaging==24.2
 pandas==2.2.3
-pillow==11.1.0
+pillow==12.2.0
 propcache==0.2.0
 psutil==7.0.0
 py-cpuinfo==9.0.0
