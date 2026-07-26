@@ -36,7 +36,7 @@ opencv-python==4.11.0.86
 opentelemetry-api==1.26.0
 packaging==24.2
 pandas==2.2.3
-pillow==11.1.0
+pillow==12.2.0
 propcache==0.2.0
 psutil==7.0.0
 py-cpuinfo==9.0.0
@@ -53,7 +53,7 @@ pytz==2024.1
 PyWavelets==1.8.0
 PyYAML==6.0.2
 regex==2024.11.6
-requests==2.32.3
+requests==2.33.0
 responses==0.13.3
 safetensors==0.4.5
 scipy==1.15.2
